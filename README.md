@@ -2,7 +2,7 @@
 
 A simple Rainmeter skin.
 
-![](img/AHAb6WH11n.png)
+![](img/NVIDIA_Share_DNo9SfghRD.png)
 
 # Installation
 Just go to [Releases](https://github.com/tilda/GoodWhatever/releases) and download the rmskin.
