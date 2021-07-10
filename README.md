@@ -12,5 +12,10 @@ All configuration is in the .ini file. I'm not about to make a whole config GUI 
 
 Every option is commented to make it easier for you, just in case.
 
+# Thanks
+Rasmus Andersson for creating the font used by default, [Inter](https://rsms.me/inter)
+
 # License
 MIT
+
+*The Inter font included in GoodWhatever is licensed under the SIL Open Font License*
