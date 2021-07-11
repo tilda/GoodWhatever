@@ -14,6 +14,7 @@ Every option is commented to make it easier for you, just in case.
 
 # Thanks
 Rasmus Andersson for creating the font used by default, [Inter](https://rsms.me/inter)
+theAzack9 for creating [FrostedGlass](https://forum.rainmeter.net/viewtopic.php?t=23106), a blur plugin for Rainmeter
 
 # License
 MIT
